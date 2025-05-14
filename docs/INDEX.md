@@ -57,7 +57,7 @@ import "material-dynamic-colors";
 
 ### HTML
 
-You can use this html to setup your project. See on [Codepen](https://codepen.io/leo-bnu/pen/yLKLPxj). More about in [Main layout](docs/MAIN_LAYOUT.md).
+You can use this html to setup your project. See on [Codepen](https://codepen.io/leo-bnu/pen/yLKLPxj). More about in [Main layout](MAIN_LAYOUT.md).
 
 ```html
 <html>
